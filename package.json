@@ -1,0 +1,19 @@
+{
+    "name": "keith",
+    "description": "individual coursework 2",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Keith",
+    "license": "ISC",
+    "dependencies": {
+        "app": "^0.1.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.1",
+        "http": "^0.0.1-security",
+        "logger": "^0.0.1",
+        "mongodb": "^4.7.0",
+        "path": "^0.12.7"
+    }
+}
